@@ -13,6 +13,9 @@ Unity 記憶配對遊戲
 
 這是我使用 Unity 開發的第一款 2D 益智記憶配對遊戲！
 
+## 🎨 美術與視覺設計
+* **原創手繪**：遊戲內看到的所有可愛水果圖案、遊戲背景，以及介面上的 UI 按鈕，全部都是親自手繪設計的
+
 ## 🎮 遊戲特色
 * 支援多種難度選擇 (Easy, Normal, Hard)
 * 內建計步器與過關計時器
@@ -20,4 +23,4 @@ Unity 記憶配對遊戲
 
 ## 🛠️ 開發技術
 * **遊戲引擎**：Unity (C#)
-* **核心技術**：UI 場景切換、協程 (Coroutine) 延遲比對、PlayerPrefs 跨場景數據儲存、UnityWebRequest API 串接。
+* **核心技術**：UI 場景切換、協程 (Coroutine) 延遲比對、PlayerPrefs 跨場景數據儲存、UnityWebRequest API 串接
